@@ -2,11 +2,12 @@
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
+- <b> Benchmarking European Indices </b>
+  - [Analysis of European Indices (2020-2024) with python and Tableau](https://github.com/ikechisan/Benchmarking-European-Indices)
 - <b> Customer Segmentation Analysis and Visualisation </b>
   - [Customer Segmentation with python and Visualisation with Power BI](https://github.com/ikechisan/Customer-Segmentation-Project)
 - <b> PCA Analysis on Diet Composition </b>
   - [Principal Component Analysis with R](https://github.com/ikechisan/PCA-diet)
-
 
 <h2>👨‍💻 Math Projects:</h2>
 
