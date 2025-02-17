@@ -1,8 +1,11 @@
 <h1>Hi, I'm Ikechi! <br/>Mathematician, Data Analyst</a></h1>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
+
 - <b> Customer Segmentation Analysis and Visualisation </b>
   - [Customer Segmentation with python and Visualisation with Power BI](https://github.com/ikechisan/Customer-Segmentation-Project)
+- <b> PCA Analysis on Diet Composition </b>
+  - [Principal Component Analysis with R](https://github.com/ikechisan/PCA-diet)
 
 
 <h2>👨‍💻 Math Projects:</h2>
